@@ -1,2 +1,3 @@
-criando a descrição do projeto
-Objetivo: 
+O conteúdo do curso será postado em breve:
+Justificativa
+Objetivo
